@@ -5,7 +5,7 @@ This repository contains the digitized 1903 Los Angeles City Field map. Note, th
 
 The files are:
 
-*Los Angeles Field database diagram.pdf*: This ERD is useful for understanding the relationships among the tables.
+**Los Angeles Field database diagram.pdf**: This ERD is useful for understanding the relationships among the tables.
 
 Los Angeles Field georeferenced 1903 map, east and west: These are georeferenced raster GeoTIFF files.
 
