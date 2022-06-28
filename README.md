@@ -1,4 +1,4 @@
-# Los Angeles Field
+# Los Angeles Field 1903 Map
 This repository contains digitized map data for the Los Angeles oil field, as it appeared in April, 1903.
 
 This repository contains the digitized 1903 Los Angeles City Field map. Note, this map contains only wells and related structures that were observed in the Los Angeles FIELD in April, 1903. These files do not cover the entire Los Angeles BASIN. 
