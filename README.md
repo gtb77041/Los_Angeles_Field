@@ -7,12 +7,12 @@ The files are:
 
 **Los Angeles Field database diagram.pdf**: This ERD is useful for understanding the relationships among the tables.
 
-Los Angeles Field georeferenced 1903 map, east and west: These are georeferenced raster GeoTIFF files.
+**Los Angeles Field georeferenced 1903 map, east and west**: These are georeferenced raster GeoTIFF files.
 
-Los Angeles Field point features ESRI shapefile: For those needing an ESRI shapefile, here it is. Attribute data is in the Los_Angeles_Field.db SQLite file. Join using the link_id field.
+**Los Angeles Field point features ESRI shapefile**: For those needing an ESRI shapefile, here it is. Attribute data is in the Los_Angeles_Field.db SQLite file. Join using the link_id field.
 
-Los Angeles Field wells.gpkg: This is a QGIS geopackage that contains the vector point file and the two georeferenced raster scans. For QGIS users, this might be the best choice. Join the vector layer with the Los_Angeles_Field.db SQLite file on the link_id field. 
+**Los Angeles Field wells.gpkg**: This is a QGIS geopackage that contains the vector point file and the two georeferenced raster scans. For QGIS users, this might be the best choice. Join the vector layer with the Los_Angeles_Field.db SQLite file on the link_id field. 
 
-Los_Angeles_Field.db: This is a SQLite file containing the well, tank, and plant attribute data.
+**Los_Angeles_Field.db**: This is a SQLite file containing the well, tank, and plant attribute data.
 
-Register of Oil Wells in the Los Angeles Field.pdf: This is the source of the attribute data. 
+**Register of Oil Wells in the Los Angeles Field.pdf**: This is the source of the attribute data. 
